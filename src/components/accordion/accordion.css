@@ -1,0 +1,9 @@
+.root {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.head {
+  border: 2px solid black;
+  border-radius: 3px;
+}
